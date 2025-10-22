@@ -1,0 +1,4 @@
+1.0.0
+Primeira versão estável dos scripts de configuração do Cursor IDE para Kotlin/Gradle
+Data: $(date +"%Y-%m-%d %H:%M:%S")
+Autor: Costa Eduardo
