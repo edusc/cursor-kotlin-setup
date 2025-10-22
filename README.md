@@ -22,7 +22,7 @@ Transforma qualquer projeto Kotlin/Gradle para funcionar **perfeitamente** no Cu
 
 ```bash
 # 1. Clonar o repositório
-git clone <seu-repositorio>
+git clone git@github.com:edusc/cursor-kotlin-setup.git
 cd cursor-kotlin-setup
 
 # 2. Tornar executável
